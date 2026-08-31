@@ -1,0 +1,10 @@
+# Cliente fal (usado por scripts/seedance_shot.py)
+fal-client
+python-dotenv
+
+# scripts/fabric_swatch.py — muestra de tela desde la foto real
+numpy
+pillow
+
+# Blender va aparte (3.x/4.x, invocable como `blender` en el PATH).
+# Los scripts que importan bpy corren DENTRO de Blender, no en este venv.

@@ -1,0 +1,14 @@
+venv/
+.env
+shots/*.mp4
+shots/*.png
+examples/out/
+characters/*
+character_refs/*
+!*/.gitkeep
+__pycache__/
+*.pyc
+
+# bitacora interna (su contenido limpio vive en docs/06-BITACORA-MODELO.md)
+INVESTIGACION-GLOBAL.md
+examples/
